@@ -1,0 +1,6 @@
+Config = {
+    namescript = k câu cá 
+    logoscript = 111486227698283
+    tacgia = k câu cá 
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Simple-xa/Fisch/main/Dexzybit.lua"))()
