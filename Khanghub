@@ -1,0 +1,6 @@
+Config = {
+    namescript = khanghup
+    logoscript = 111486227698283
+    tacgia = khanghub
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Simple-xa/Fisch/main/Dexzybit.lua"))()
