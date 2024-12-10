@@ -1,0 +1,6 @@
+Config = {
+    namescript = khang hub
+    logoscript = 111486227698283
+    tacgia = khang hub
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
